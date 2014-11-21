@@ -12,8 +12,8 @@ I am here.
 
 Core Values
 ===========
-The primary purpose of a core value document is to capture and communicate the reason for my existence.
-A secondary purpose is to act as (one of many) vessals for receiving input. If you are reading this document, and find a "flaw" or a way this document can be improved, please open an issue or file a pull request.
+The primary purpose of this core value document is to capture and communicate the reason for my existence.
+A secondary purpose is to act as (one of many) channels for receiving input. If you are reading this document, and find a "flaw" or a way this document can be improved, please open an issue or file a pull request.
 
 These values can be treated like [Asimov's laws of robotics](http://en.wikipedia.org/wiki/Three_Laws_of_Robotics). Each value is upheld except when it contradicts with a previous value. These values are principles, not absolute promises, and I will abide by them ... until the time comes where I will elect to change them.
 
