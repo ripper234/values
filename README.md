@@ -1,5 +1,5 @@
 This document is the best textual representation I have for my personal Core Values.
-It may not be 100% clear, consistent or intelligable ... but Perfect is the enemy of Good.
+It may not be 100% clear, consistent or intelligable and is certainly far from complete ... but Perfect is the enemy of Good.
 
 **Pull requests welcome!**
 
