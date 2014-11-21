@@ -28,7 +28,7 @@ These values can be treated like [Asimov's laws of robotics](http://en.wikipedia
 
 References and Influece
 =======================
-This work has greatly influeced my way of thinking and core vales. I will list these references in the order I encountered them in my life.
+This work has greatly influeced my way of thinking and core vales. I will list these references in the order I encountered them in my life. I thank all my teachers, those listed here and those who aren't, for their lessons.
 
 1. [The Celestine Prophecy](http://en.wikipedia.org/wiki/The_Celestine_Prophecy)
 2. [The Work of Byron Katie](http://www.thework.com/), referred to me by my wife, Aya Federman Gross
