@@ -17,14 +17,14 @@ A secondary purpose is to act as (one of many) channels for receiving input. If 
 
 These values can be treated like [Asimov's laws of robotics](http://en.wikipedia.org/wiki/Three_Laws_of_Robotics). Each value is upheld except when it contradicts with a previous value. These values are principles, not absolute promises, and I will abide by them ... until the time comes where I will elect to change them.
 
-1. Do good - There is no agreed upon definition of "doing good" so this must be left for individual interpertation. One can say this value is vague or meaningless, but it has personal meaning to me.
-2. Fearlessness - I realize that [Fear is the mind killer](http://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is), and I strive to make decisions not from a place of fear, but rather from understanding.
-3. [Radical Honesty](http://www.radicalhonesty.com/) - I plan to never lie (except to protect value #1).
-4. Empathy - I will seek to understand and empathize with different views even and especially when I disagree with them.
-5. Freedom - I will seek to maximize the freedom and rights enjoyed by any individual or group.
-6. Transparency - I will seek to voluntarily share the maximal amount of information I can to my loved ones, friends, family and the public.
-7. Dedication - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
-8. Peacefullness - I will try to communicate in a way that allows other people to be honest, critical, questioning and supportive around me and with me. I will seek not to judge or condemn anyone for anything. There is no good or evil in the world, only love and fear.
+1. **Do good** - There is no agreed upon definition of "doing good" so this must be left for individual interpertation. One can say this value is vague or meaningless, but it has personal meaning to me.
+2. **Fearlessness** - I realize that [Fear is the mind killer](http://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is), and I strive to make decisions not from a place of fear, but rather from understanding.
+3. **[Radical Honesty](http://www.radicalhonesty.com/)** - I plan to never lie (except to protect value #1).
+4. **Empathy** - I will seek to understand and empathize with different views even and especially when I disagree with them.
+5. **Freedom** - I will seek to maximize the freedom and rights enjoyed by any individual or group.
+6. **Transparency** - I will seek to voluntarily share the maximal amount of information I can to my loved ones, friends, family and the public.
+7. **Dedication** - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
+8. **Peacefullness** - I will try to communicate in a way that allows other people to be honest, critical, questioning and supportive around me and with me. I will seek not to judge or condemn anyone for anything. There is no good or evil in the world, only love and fear.
 
 References and Influece
 =======================
