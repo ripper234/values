@@ -19,7 +19,7 @@ These values can be treated like [Asimov's laws of robotics](http://en.wikipedia
 
 1. **Do good** - There is no agreed upon definition of "doing good" so this must be left for individual interpertation. One can say this value is vague or meaningless, but it has personal meaning to me.
 1. **Fearlessness** - I realize that [Fear is the mind killer](http://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is), and I strive to make decisions not from a place of fear, but rather from understanding.
-1. **[Radical Honesty](http://www.radicalhonesty.com/)** - I plan to never lie (except to protect value #1).
+1. **[Radical Honesty](http://www.radicalhonesty.com/)** - I plan to never lie (except to protect values above this).
 1. **Selfishness** - I am here to make myself happy. I will seek not to hurt myself and my happiness in order to please other people.
 1. **Empathy and Kindness** - I will seek to understand and empathize with different views even and especially when I disagree with them. I will seek to minimize the harm caused to others and maximize their happiness.
 1. **Freedom** - I will seek to maximize the freedom and rights enjoyed by any individual or group.
