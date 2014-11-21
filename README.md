@@ -26,7 +26,8 @@ These values can be treated like [Asimov's laws of robotics](http://en.wikipedia
 7. Dedication - Do. Or do not. [There is no try](https://www.youtube.com/watch?v=BQ4yd2W50No).
 8. Peacefullness - I will try to communicate in a way that allows other people to be honest, critical, questioning and supportive around me and with me. I will seek not to judge or condemn anyone for anything. There is no good or evil in the world, only love and fear.
 
-== References and Influece ==
+References and Influece
+=======================
 This work has greatly influeced my way of thinking and core vales. I will list these references in the order I ran into them.
 
 1. [The Celestine Prophecy](http://en.wikipedia.org/wiki/The_Celestine_Prophecy)
